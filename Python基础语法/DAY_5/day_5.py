@@ -1,4 +1,4 @@
-from Python基础语法.DYA_5.my_utils import str_util, file_util
+from Python基础语法.DAY_5.my_utils import str_util, file_util
 
 
 def fun_try():
